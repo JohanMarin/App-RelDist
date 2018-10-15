@@ -1,0 +1,12 @@
+name: RelDist
+title: RelDist
+username:
+account: johanmarin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 513851
+bundleId: 1642909
+url: https://johanmarin.shinyapps.io/RelDist/
+when: 1539574352.79041
+asMultiple: FALSE
+asStatic: FALSE
