@@ -1,5 +1,5 @@
 library(shiny)
-if (!require('shinythemes')) install.packages('shinythemes')
+if (!require('shinythemes')) {install.packages('shinythemes')}
 library(shinythemes)
 
 
