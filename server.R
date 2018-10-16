@@ -1,6 +1,6 @@
 library(shiny)
-if (!require('devtools')) install.packages('devtools')
-if (!require('RelDists')) devtools::install_github('ousuga/RelDists', force=TRUE)
+if (!require('devtools')) {install.packages('devtools')}
+if (!require('RelDists')) {devtools::install_github('ousuga/RelDists', force=TRUE)}
 library(RelDists)
 
 shinyServer(function(input, output){
